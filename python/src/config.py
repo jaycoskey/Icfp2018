@@ -1,0 +1,11 @@
+class Config:
+    COST_FILL_FULL = 6
+    COST_FILL_VOID = 12
+
+    COST_FISSION = 24
+
+    COST_FUSION = 24
+
+    RESOLUTION_WIDTH_BYTES = 1
+
+    VERBOSE = False
